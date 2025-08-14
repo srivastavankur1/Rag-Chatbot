@@ -21,7 +21,7 @@ if st.session_state["history"]:
             st.session_state["messages"] = chat["messages"].copy()
 
 # Reset current chat
-if st.sidebar.button("🗑️ Reset Chat"):
+if st.sidebar.button("Reset Chat"):
     if st.session_state["messages"]:
         # Save current chat into history
         st.session_state["history"].append({
