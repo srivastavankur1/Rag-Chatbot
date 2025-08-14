@@ -24,6 +24,8 @@ This project is an **AI-powered chatbot** that answers user queries based on a p
    - Chat-style interface with user/bot message. 
    - Sidebar displays `chat history` and a `reset chat` option.  
 
+## **Flow Chart**
+
 ![alt text](mermaid.svg)
 
 ## **Folder Structure**
