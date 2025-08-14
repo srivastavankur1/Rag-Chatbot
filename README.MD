@@ -29,15 +29,18 @@ This project is an **AI-powered chatbot** that answers user queries based on a p
 ![alt text](mermaid.svg)
 
 ## **Folder Structure**
-/data #document pdf
+/data
+    document.pdf                
+
 /src
-    /chunks # Preprocessed chunks.json
-    /vectordb # Stored embeddings in ChromaDB
-    vectorstore_setup.py #load , preprocess and generate embeddings
-    retriever.py # VectorDB retriever
-    rag_pipeline.py # RAG pipeline with memory + streaming
-app.py # Streamlit chatbot interface
-requirements.txt
+    /chunks                     # Preprocessed chunks
+    /vectordb                   # Stored embeddings in ChromaDB
+    setup.py        # Load, preprocess, and generate embeddings
+    retriever.py                # VectorDB retriever
+    rag_pipeline.py             # Rag pipeline with memory + streaming
+
+app.py                          # Streamlit chatbot 
+requirements.txt                
 
 
 ## **Setup & Running Instructions**
