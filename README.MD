@@ -85,4 +85,4 @@ Chat history and reset functionality are available in the sidebar.
 
 ## **Watch Live Video**
 
-[Watch the Demo Video](https://drive.google.com/file/d/14t_5jLvFfiNEz2mpUsKoquwLfMCWvR0F/view?usp=sharing)
+[Watch the Demo Video](https://drive.google.com/file/d/1529sRohygX-zZlRz8BtmNXYxUl2AxCih/view?usp=sharing)
