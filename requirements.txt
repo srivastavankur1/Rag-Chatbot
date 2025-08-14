@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain_community
+
+langchain-huggingface
+sentence-transformers
+huggingface-hub
+
+python-dotenv
+
+langchain-google-genai
+google-generativeai
+
+streamlit
+
+pyPDFLoader
+chromadb
