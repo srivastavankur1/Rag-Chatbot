@@ -34,8 +34,8 @@ This project is an **AI-powered chatbot** that answers user queries based on a p
 
 /src
     /chunks                     # Preprocessed chunks
-    /vectordb                   # Stored embeddings in ChromaDB
-    setup.py        # Load, preprocess, and generate embeddings
+    /chroma_db                   # Stored embeddings in ChromaDB
+    setup.py            # Load, preprocess, and generate embeddings
     retriever.py                # VectorDB retriever
     rag_pipeline.py             # Rag pipeline with memory + streaming
 
@@ -52,9 +52,9 @@ requirements.txt
     Create .env file
     GOOGLE_API_KEY=<your_google_api_key>
 
-3. Run python vectorstore_setup.py
+3. Run - python setup.py
 
-4. Run Streamlit run app.py
+4. Run -  Streamlit run app.py
 
 Ask questions about the document in the input box.
 Responses are streamed token-by-token.
@@ -85,4 +85,4 @@ Chat history and reset functionality are available in the sidebar.
 
 ## **Watch Live Video**
 
-[Watch the Demo Video](https://drive.google.com/file/d/1529sRohygX-zZlRz8BtmNXYxUl2AxCih/view?usp=sharing)
+[Watch the Demo Video](https://drive.google.com/file/d/1d_ibAMAlkZIj6VdXyY2ypzNynEdhg1jr/view?usp=sharing)
