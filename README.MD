@@ -73,6 +73,11 @@ Chat history and reset functionality are available in the sidebar.
     Efficient storage and semantic search for chunk embeddings.
 
 
+## **Chatbot Interface**
+
 ![alt text](image.png)
+
+
+## **Examples** 
 
 ![alt text](image-1.png)
