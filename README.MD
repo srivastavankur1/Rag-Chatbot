@@ -81,3 +81,8 @@ Chat history and reset functionality are available in the sidebar.
 ## **Examples** 
 
 ![alt text](image-1.png)
+
+
+## **Watch Live Video**
+
+[Watch the Demo Video](https://drive.google.com/file/d/14t_5jLvFfiNEz2mpUsKoquwLfMCWvR0F/view?usp=sharing)
